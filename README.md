@@ -1,19 +1,15 @@
-## Hi there 👋
+# 👋 Olá, eu sou Gustavo Mendes!  
 
-<!--
-**Guga-Sistemas/Guga-Sistemas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Desenvolvedor em evolução** apaixonado por tecnologia e soluções inovadoras. Tenho experiência com **suporte técnico, bancos de dados e desenvolvimento full stack**, e atualmente estou expandindo meus conhecimentos em **APIs, Vue.js e desenvolvimento backend**.  
 
-Here are some ideas to get you started:
+🚀 Busco constantemente aprender e aprimorar minhas habilidades, sempre focado em **agilidade, resultado e respeito** no ambiente de trabalho.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Atualmente, trabalho no **CPQD** e tenho experiência com **metodologias ágeis (Scrum/Kanban)**. Também já atuei na área de suporte de ERP, onde adquiri conhecimento em **bancos de dados (MySQL, SQL Server) e sistemas de gestão**.  
+
+📌 **Áreas de interesse:** Desenvolvimento, Inteligência Artificial, Blockchain e Análise de Dados.  
+
+📫 **Vamos conversar?** Me encontre no [LinkedIn](https://www.linkedin.com/in/gustavo-mendes-porto/) ou entre em contato pelo meu e-mail: **gustavomp100@gmail.com**  
+
 
 <div>
   <a href="https://github.com/Guga-Sistemas">
